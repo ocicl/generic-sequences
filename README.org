@@ -1,0 +1,10 @@
+* generic-sequences
+
+Generic Sequences for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dsorokin/generic-sequences.git   |
+| commit  | 86db736  |
+| systems | generic-sequences |
+|---------+-------------------------------------------|
+
